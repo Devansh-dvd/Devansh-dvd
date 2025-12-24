@@ -23,3 +23,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh-dvd&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Devansh-dvd/Devansh-dvd/output/github-contribution-grid-snake.svg" />
+</p>
