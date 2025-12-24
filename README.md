@@ -18,7 +18,7 @@
 </ul>
 <br/>
 <h2><strong>Connect With Me 🌐 </strong></h2>
-<a href="https://www.linkedin.com/in/devansh-chauhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alttext="LinkedIn"></a> 
+<a href="https://www.linkedin.com/in/devansh-chauhan-163a97324//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alttext="LinkedIn"></a> 
 <a href="chauhandevansh@780gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alttext="Email"></a> 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh-dvd&theme=tokyonight" />
