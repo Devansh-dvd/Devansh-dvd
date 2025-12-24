@@ -8,11 +8,11 @@
 </p>
 <p align="center">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" />
-    <img src="https://skillicons.dev/icons?i=python,tailwind,solidity,flask,js,nodejs,express,firebase,jest,c,cpp,mysql,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,c,cpp,mongoDB,tailwind,react" />
 </p>
-<h1><strong>💫 I'm Dhruv,</strong></h1>
+<h1><strong>💫 I'm Devansh,</strong></h1>
 <ul>
-  <li>🔭 A DevOps enthusiast and a backend developer.</li>
-  <li>👯 Looking to collaborate on Rust, Golang, and DevOps projects.</li>
-  <li>🌱 Interested in sleeping, ricing my arch, fixing my post-rice arch and cats.</li>
+  <li>🔭 A full stack enthusiast and a backend and frontend developer.</li>
+  <li>👯 Looking forward to collaborate on open source frontend and backend projects.</li>
+  <li>🌱 Interested in gaming, DSA, competitive programming and building real world useful applications.</li>
 </ul>
