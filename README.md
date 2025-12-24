@@ -1,1 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&duration=3000&pause=1000&vCenter=true&random=true&width=300&height=40&lines=I'm+a+competitive+programmer;I'm+an+overthinker;I'm+a+Web+developer;I'm+a+gamer;I'm+a+DSA+enthusiast;I'm+a+gacha+addict;I'm+a+daydreamer;I'm+an+open+source+contributor+enthusiast" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=45&lines=I'm+a+competitive+programmer;I'm+an+overthinker;I'm+a+Web+developer;I'm+a+gamer;I'm+a+DSA+enthusiast;I'm+an+open+source+contributor"
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
