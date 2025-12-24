@@ -8,7 +8,7 @@
 </p>
 <p align="center">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" />
-    <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,c,cpp,mongoDB,tailwind,react" />
+    <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,c,cpp,mongodb,tailwind,react" />
 </p>
 <h1><strong>💫 I'm Devansh,</strong></h1>
 <ul>
